@@ -1,7 +1,5 @@
 PODS:
   - OpenSSL-Universal (1.0.2.19):
-    - OpenSSL-Universal/Static (= 1.0.2.19)
-  - OpenSSL-Universal/Static (1.0.2.19)
 
 DEPENDENCIES:
   - OpenSSL-Universal (~> 1.0.2.19)
