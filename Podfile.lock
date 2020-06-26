@@ -5,7 +5,7 @@ PODS:
   - OpenSSL-Universal/Framework (1.0.2.19)
 
 DEPENDENCIES:
-  - OpenSSL-Universal (~> 1.0.2.19)
+  - OpenSSL-Universal/Framework (~> 1.0.2.19)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
